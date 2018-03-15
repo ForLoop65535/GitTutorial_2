@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  GitTutorial.cpp
+  正在產生程式碼...
+d:\oop\gittutorial\gittutorial\gittutorial\gittutorial.cpp(12): error C4716: 'Guess': 必須傳回值
